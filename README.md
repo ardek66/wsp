@@ -1,0 +1,1 @@
+Git repo for the game "Wild Space Party", for the Monthly Godot Game Jam
